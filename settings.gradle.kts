@@ -23,3 +23,4 @@ rootProject.name = "MobileApp"
 include(":app")
 include(":w03")
 include(":w04")
+include(":w05")
